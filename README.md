@@ -12,7 +12,7 @@ Hello There!👋 <img src = "https://komarev.com/ghpvc/?username=drew-bytel&colo
   <br><br>
 
 
-- 🌱 I’m currently studying as a 4th Year College Student. 
+- 🌱 Freshly Graduate on BS Computer Science 
 - 📫 How to reach me : <b>johncedricbautista.0303@gmail.com</b>
 - :bowtie: Visit my Portfolio : <a href="https://itssmezedd.github.io/Website-Portfolio/"> <b>Personal Portfolio</b>
 - 💼 My LinkedIn : <a href="https://www.linkedin.com/in/itssmezedd"> <b>LinkedIn Profile</b>
